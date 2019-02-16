@@ -1,2 +1,2 @@
 # VBAHomework
-Uploading VBA homework
+This project uses Excel VBA scripting to analyze stock data.
